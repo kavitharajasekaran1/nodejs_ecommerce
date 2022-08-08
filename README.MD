@@ -1,0 +1,1 @@
+# use strip.com and then the api key use that api key as the stripe_KEY
