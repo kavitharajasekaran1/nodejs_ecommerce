@@ -1,1 +1,1 @@
-# use stripe.com and then the api key use that api key as the stripe_KEY
+# use stripe.com and then the api key use that api key as the stripe_KEY and use the public key in the front end
